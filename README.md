@@ -9,7 +9,7 @@
 </a> ![](https://visitor-badge.glitch.me/badge?page_id=Sem07.Sem07)
 
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?raw=true" width="480" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?raw=true" width="320" height="240" />
 Hi, I'm <b>Maksym Dziuba</b>, a Full-Stack Developer 🚀 from Ukraine.
 <p>I have technical education but always wanted to work in the IT field. I finished IT course in OktenWeb University and now I am look for junior Full-Stack Developer job. Open for new opportunities.</p>
 
