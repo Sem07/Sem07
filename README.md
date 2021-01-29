@@ -28,3 +28,6 @@ Hi, I'm <b>Maksym Dziuba</b>, a Full-Stack Developer 🚀 from Ukraine.
 <code><img height="26" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg"></code>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sem07&show_icons=true&theme=gotham" alt="sem07" />
+<br />
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sem07)](https://github.com/anuraghazra/github-readme-stats)
