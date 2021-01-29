@@ -12,3 +12,16 @@
 
 Hi, I'm <b>Maksym Dziuba</b>, a Full-Stack Developer 🚀 from Ukraine.
 <p>I have technical education but always wanted to work in the IT field. I finished IT course in OktenWeb University and now I am look for junior Full-Stack Developer job. Open for new opportunities.</p>
+
+**Languages and Tools:**  
+
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="26" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg"></code>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sem07&show_icons=true&theme=gotham" alt="sem07" />
